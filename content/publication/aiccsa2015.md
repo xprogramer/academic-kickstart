@@ -18,8 +18,8 @@ authors = ["**Kheireddine Abainia**", "Siham Ouamour", "Halim Sayoud"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*The 3rd International Conference on Pattern Analysis and Intelligent Systems*"
-publication_short = "*PAIS'2018*"
+publication = "*International Conference on Computer Systems and Applications*"
+publication_short = "*AICCSA'2015*"
 
 # Abstract and optional shortened version.
 abstract = """
