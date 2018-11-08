@@ -64,7 +64,7 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "k.abainia@ummto.com"
   address = "Electronics Department, FGEI Faculty, UMMTO University, Tizi-ouzou, 15000, Algeria"
-  office_hours = "Wednesday-Tuesday 8:00 to 15:00 or email for appointment"
+  office_hours = "Wednesday-Thursday 8:00 to 15:00 or email for appointment"
   phone = "+213 773 684 4422"
   skype = "kheireddine.abainia"
   telegram = ""
@@ -99,7 +99,7 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "ocean"
+  color_theme = "default"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
