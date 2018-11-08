@@ -1,6 +1,6 @@
 +++
 # Projects widget.
-widget = "projects"
+widget = "DIY"
 active = true
 date = 2016-04-20T00:00:00
 
@@ -13,7 +13,7 @@ weight = 50
 # Content.
 # Display content from the following folder.
 # For example, `folder = "project"` displays content from `content/project/`.
-folder = "project"
+folder = "diy"
 
 # View.
 # Customize how projects are displayed.
