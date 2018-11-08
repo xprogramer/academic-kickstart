@@ -1,0 +1,21 @@
++++
+abstract = "The amount of textual information written in Romanized Arabic (or Arabizi) is increasing exponentially day-by-day, when investigating automatic methods to process such texts is becoming a need. Hence, in this investigation, we are addressing the identification of Algerian sub-dialects of social media comments written in Romanized Arabic. Moreover, we address the Arabizi-French code-switching phenomenon.
+To the best of our knowledge, this is the first work addressing the tackled problem on written documents. Accordingly, we propose a new corpus (DZDC12 corpus), and the general guidelines to collect the texts as well.
+	As a first attempt to deal with the Algerian sub-dialects identification, we use two state-of-the-art tools of language identification (langid.py and LangDetect), as well as three classifiers (i.e. SVM, Multinomial NB and Gaussian NB) based on a heuristic of features selection. The evaluation conducted on the DZDC12 corpus showed low performances, as well as confirmed our expectation that the tackled problem requires an extensive study to select the reliable feature set.
+"
+authors = [Kheireddine Abainia]
+date = "2018-10-25"
+image = ""
+image_preview = ""
+math = false
+publication = "In PAIS conference"
+title = "Detecting Algerian Sub-Dialects of On-Line Commentators in Social Media Networks"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
++++
+
+Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.
