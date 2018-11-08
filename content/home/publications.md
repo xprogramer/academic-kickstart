@@ -20,7 +20,7 @@ count = 10
 #   2 = APA
 #   3 = MLA
 #   4 = Stream
-list_format = 4
+list_format = 1
 
 # Filter by publication type.
 # -1: Any
@@ -37,4 +37,4 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
-Toward Accurate Social Media Language Identification: Combining Language Features with a Graphical Approach
+K. Abainia. Toward Accurate Social Media Language Identification: Combining Language Features with a Graphical Approach. In PAIS, 2018.
