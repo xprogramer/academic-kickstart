@@ -36,5 +36,3 @@ publication_type = "-1"
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
 +++
-
-K. Abainia. Toward Accurate Social Media Language Identification: Combining Language Features with a Graphical Approach. In PAIS, 2018.
