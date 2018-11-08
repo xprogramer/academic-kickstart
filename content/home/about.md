@@ -48,5 +48,4 @@ I am PhD in Telecommunication & Information Processing, and I am Assistant Profe
 University in 2016 (started in February 2013), and the MSc in Pattern Recognition & AI from UBMA, in 2012. 
 
 I am careful and punctual, as well as I am recognized for my reliability, my analytical, strategic and challenging spirit. My goal is to 
-tap my full potential to contribute in the technological development. I have very strong programming skills  
-with +10 years of experience, an organizational and leadership sense with +6 years of experience. I have the ability to conduct researches autonomously, or to work within a team.
+tap my full potential to contribute in the technological development. I have very strong programming skills with +10 years of experience, an organizational and leadership sense with +6 years of experience. I have the ability to conduct researches autonomously, or to work within a team.
