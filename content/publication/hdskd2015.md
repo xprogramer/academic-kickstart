@@ -18,7 +18,7 @@ authors = ["**Kheireddine Abainia**"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*The 3rd International Conference on Pattern Analysis and Intelligent Systems*"
+publication = "*International Journal of Hidden Data Mining and Scientific Knowledge Discovery*"
 publication_short = "*HDSKD'2015*"
 
 # Abstract and optional shortened version.
