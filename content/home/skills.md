@@ -22,21 +22,21 @@ weight = 7
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
-  icon = "r-project"
+  icon = "Organize"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "With more than 6 years of experience in leadership and organization, I can lead a small company of people to success and to achieve quality and high performance"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Research"
+  description = "Research is the key of the technological progress. I have the ability to spot the research gap, to work on different areas, and to work within a team or autonomously"  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Develop"
+  description = "More than 10 years of development and programming in different languages, I can now develop any software I want, and resolve the majority of the real-world problems as well"
 
 +++
