@@ -16,10 +16,15 @@ weight = 65
 +++
 
 **CORPORA:**
+
 - ARASTEM corpus (ARAbic STEMming) [The corpus was constructed by the following native Arabic speakers: Ibtissem Abainia, Ahmed Kedaya, Chouaib Fellah and Otman Bordjiba.]
+
 - ANTSIX corpus (Arabic Noisy Texts in SIX topics)
+
 - DLI32 corpus (Dataset for Language Identification of 32 languages)
 
 **SOURCE CODES:**
+
 - **ARLSTem algorithm:** The source codes of an effective Arabic light stemmer written in different programming languages.
+
 - **5 statistical algorithms for language identification:** The source codes of 5 statistical algorithms (i.e. CBA, WBA, SCA, HA1 and HA2) that were conceived for language identification. Hence, the algorithms are featured with only 32 languages belonging to DLI32 corpus.
