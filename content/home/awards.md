@@ -1,29 +1,21 @@
 +++
-# Recent awards widget.
-# This widget displays recent posts from `content/awards/`.
-widget = "awards"
+# Custom widget.
+# An example of using the custom widget to create your own homepage section.
+# To create more sections, duplicate this file and edit the values below as desired.
+widget = "custom"
 active = true
-date = 2016-04-20T00:00:00
+date = 2018-11-09T00:00:00
 
-title = "Awards"
+# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
+title = "Awards & Honors"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 40
+weight = 63
 
-# Filter awards by tag.
-#  By default, show all recent awards.
-#  Filtering example: `tags_include = ["hugo", "academic"]`
-tags_include = []
-tags_exclude = []
-
-# Number of awards to list.
-count = 5
-
-# List format.
-#   0 = Simple
-#   1 = Detailed
-#   2 = Stream
-list_format = 2
 +++
 
+- **2018:** Best Paper Award, PAIS'18 conference. 
+- **2012:** Outstanding Master's Thesis, Badji Mokhtar Annaba University, Algeria. ![](https://img.shields.io/badge/top-1%25-blue.svg)
+- **2010:** Outstanding Graduate Student, Badji Mokhtar Annaba University, Algeria. ![](https://img.shields.io/badge/top-10%25-blue.svg)
+- **2008:** Outstanding First Year Students, Badji Mokhtar Annaba University, Algeria. ![](https://img.shields.io/badge/top-5%25-blue.svg)
