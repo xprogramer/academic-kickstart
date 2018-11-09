@@ -196,9 +196,9 @@ enableGitInfo = false
     'Book section'  # 6
   ]
 
-  # Configuration of talk pages.
-  [params.talks]
-    # Show talk time?
+  # Configuration of awards page.
+  [params.awards]
+    # Show awards time?
     time = true
 
   # Configuration of publication pages.
