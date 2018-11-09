@@ -11,7 +11,7 @@ title = "Resources"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 62
+weight = 65
 
 +++
 
