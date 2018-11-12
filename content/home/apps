@@ -11,7 +11,7 @@ title = "Apps"
 subtitle = "On-line applications"
 
 # Order that this section will appear in.
-weight = 64
+weight = 40
 
 +++
 
