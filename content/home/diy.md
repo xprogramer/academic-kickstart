@@ -11,7 +11,7 @@ title = "DIY"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 68
+weight = 67
 
 +++
 
