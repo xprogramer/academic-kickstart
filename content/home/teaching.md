@@ -18,8 +18,8 @@ weight = 64
 - University of Mouloud Mammeri Tizi-ouzou (since December 2017):
 	- Simulation tools for µElec (common amplification circuits)
 	- Administration of network services
-	- C++ and POO
-	- Web technologies
+	- [C++ and POO] (https://abainia.net/teaching/cpp-poo/)
+	- [Web technologies] (https://abainia.net/teaching/web-technologies/)
 
 - STS Training School (2015-2016):
 	- Java programming
