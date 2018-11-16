@@ -17,8 +17,8 @@ weight = 65
 
 ## Language Identifcation tools
 
-<i class="fas fa-book"></i> [CBA, WBA, SCA, HA1 and HA2 algorithms](https://app.abainia.net#lid)  On-line test of our LID tools, where they are featured with only 32 languages.</br>
+<i class="fas fa-book"></i> [CBA, WBA, SCA, HA1 and HA2 algorithms](http://app.abainia.dx.am/#lid)  On-line test of our LID tools, where they are featured with only 32 languages.</br>
 
 ## Arabic stemming
 
-<i class="fas fa-codes"></i> [ARLSTem algorithm](https://app.abainia.net#stemming)  On-line test of our proposed Arabic stemmer (now it is included in NLTK package).</br>
+<i class="fas fa-codes"></i> [ARLSTem algorithm](http://app.abainia.dx.am/#stemming)  On-line test of our proposed Arabic stemmer (now it is included in NLTK package).</br>
