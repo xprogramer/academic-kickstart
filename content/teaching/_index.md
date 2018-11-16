@@ -1,17 +1,22 @@
 +++
+# Custom widget.
+# An example of using the custom widget to create your own homepage section.
+# To create more sections, duplicate this file and edit the values below as desired.
+widget = "custom"
+active = true
+date = 2018-11-13T00:00:00
+
+# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Teaching"
-date = 2017-01-01T00:00:00
+subtitle = ""
 
-# List format.
-#   0 = Simple
-#   1 = Detailed
-#   2 = APA
-#   3 = MLA
-#   4 = Stream
-list_format = 3
+# Order that this section will appear in.
+weight = 90
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
 +++
+
+## Teaching
+
+[Web Technologies (French)](https://abainia.net/teaching/web%20technologies/) </br>
+[C++ & POO (French)](https://abainia.net/teaching/cpp-poo/) </br>
+
