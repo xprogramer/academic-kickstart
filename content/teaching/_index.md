@@ -15,7 +15,6 @@ weight = 90
 
 +++
 
-## Teaching
 
 [Web Technologies (French)](https://abainia.net/teaching/web%20technologies/) </br>
 [C++ & POO (French)](https://abainia.net/teaching/cpp-poo/) </br>
