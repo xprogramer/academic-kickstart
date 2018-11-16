@@ -18,5 +18,5 @@ weight = 90
 
 ## Web Technologies (French)
 
-[TP N°1](https://abainia.net/teaching/web%20technologies/WT_TP_1.pdf) </br>
+[TP N°1](https://abainia.net/teaching/web-technologies/WT_TP_1.pdf) </br>
 
