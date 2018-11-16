@@ -16,6 +16,6 @@ weight = 63
 +++
 
 - **2018:** Best Paper Award, PAIS'18 conference. 
-- **2012:** Outstanding Master's Thesis, Compter Science Dep., UBMA, lgeria. ![](https://img.shields.io/badge/top-1%25-blue.svg)
+- **2012:** Outstanding Master's Thesis, Compter Science Dep., UBMA, Algeria. ![](https://img.shields.io/badge/top-1%25-blue.svg)
 - **2010:** Outstanding Graduate Student, Compter Science Dep., UBMA, Algeria. ![](https://img.shields.io/badge/top-10%25-blue.svg)
 - **2008:** Outstanding First-Year Students, M.I. Dep., UBMA, Algeria. ![](https://img.shields.io/badge/top-5%25-blue.svg)
