@@ -18,5 +18,5 @@ weight = 90
 
 ## C++ & POO (French)
 
-[TP N°1](https://abainia.net/teaching/cpp-poo/CPP_POO_TP_1.pdf) </br>
+[Cours N°1](https://abainia.net/teaching/cpp-poo/cours_1.pdf)  [TP N°1](https://abainia.net/teaching/cpp-poo/CPP_POO_TP_1.pdf)</br>
 
