@@ -62,10 +62,10 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "k.abainia@ummto.com"
+  email = "k.abainia@ummto.dz"
   address = "Electronics Department, FGEI Faculty, UMMTO University, Tizi-ouzou, 15000, Algeria"
   office_hours = "Wednesday-Thursday 8:00 to 15:00 or email for appointment"
-  phone = "+213 773 684 4422"
+  phone = "+213 773 684 422"
   skype = "kheireddine.abainia"
   telegram = ""
   keybase = ""  # Your keybase.io username.
