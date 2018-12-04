@@ -25,7 +25,7 @@ weight = 7
   icon = "clipboard-list"
   icon_pack = "fas"
   name = "Organize"
-  description = "With more than 6 years of experience in leadership and organization, I can lead a small company of people to success and to achieve quality and high performance"
+  description = "With more than 6 years of experience in leadership and organizing, I can lead a small company of people to success and to achieve quality and high performance"
   
 [[feature]]
   icon = "chart-line"
