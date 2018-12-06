@@ -19,6 +19,7 @@ weight = 90
 ## Web Technologies (French)
 
 [TP N°1](https://abainia.net/teaching/web-technologies/WT_TP_1.pdf) | [Solution](https://abainia.net/teaching/web-technologies/TP1.html_) </br>
+[TP N°2](https://abainia.net/teaching/web-technologies/WT_TP_2.pdf) | [Solution](https://abainia.net/teaching/web-technologies/WT_TP_2_solution.rar) </br>
 
 ## Mini Project in Web Development (French)
 [Mini projet](https://abainia.net/teaching/web-technologies/mini_projet.pdf)
