@@ -44,5 +44,5 @@ weight = 5
 
 I believe that everyone is skilled in something he loves a lot ! Coding, doing research and organizing are my hobbies and I am skilled in.
 
-I am Ph.D and Assistant Professor at UMMTO University. I received my PhD from USTHB 
+I am Ph.D and Assistant Professor at Guelma University. I received my PhD from USTHB 
 University in 2016 (started in February 2013), and the MSc in Pattern Recognition & AI from UBMA, in 2012. I am careful and punctual, as well as I am recognized for my reliability, my analytical, strategic and challenging spirit. I have the ability to conduct researches autonomously, or to work within a team.
