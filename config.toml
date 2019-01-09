@@ -56,13 +56,13 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Mouloud Mammeri University", url = "http://www.ummto.dz" } ]
+  organizations = [ { name = "University of Guelma", url = "http://univ-guelma.dz" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "k.abainia@ummto.dz"
+  email = "k.abainia@univ-guelma.dz"
   address = "Electronics Department, FGEI Faculty, UMMTO University, Tizi-ouzou, 15000, Algeria"
   office_hours = "Wednesday-Thursday 8:00 to 15:00 or email for appointment"
   phone = "+213 773 684 422"
