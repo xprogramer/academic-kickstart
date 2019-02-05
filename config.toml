@@ -63,8 +63,8 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "k.abainia@univ-guelma.dz"
-  address = "Electronics Department, FGEI Faculty, UMMTO University, Tizi-ouzou, 15000, Algeria"
-  office_hours = "Wednesday-Thursday 8:00 to 15:00 or email for appointment"
+  address = "Telecom. Department, STech Faculty, Guelma University, Guelma, 24000, Algeria"
+  office_hours = "Sunday-Tuesday 8:00 to 16:00 or email for appointment"
   phone = "+213 773 684 422"
   skype = "kheireddine.abainia"
   telegram = ""
@@ -91,8 +91,8 @@ enableGitInfo = false
   #   3: OpenStreetMap (Mapbox)
   map = 1
   map_api_key = ""
-  latitude = "36.698428"
-  longitude = "4.058009"
+  latitude = "36.449062"
+  longitude = "7.419356"
   zoom = 15
 
   # SITE SETUP
