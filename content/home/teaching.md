@@ -15,7 +15,13 @@ weight = 64
 
 +++
 
-- University of Mouloud Mammeri Tizi-ouzou (since December 2017):
+- University of Guelma (December 2018-today):
+	- Industrial communication networks (communication buses)
+  - Transmssion technologies
+  - Combinational and sequential logic circuits
+  - Practices of final year projects
+  
+- University of Mouloud Mammeri Tizi-ouzou (December 2017-February 2019):
 	- Simulation tools for µElec (common amplification circuits)
 	- Administration of network services
 	- [C++ and POO] (https://abainia.net/teaching/cpp-poo/)
