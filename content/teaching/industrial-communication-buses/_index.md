@@ -17,6 +17,6 @@ weight = 90
 
 +++
 
-## C++ & POO (French)
+## Industrial networks and communication buses (French)
 
-[Cours N°1](https://abainia.net/teaching/industrial-communication-buses/architecture_des_réseaux.pdf)
+[Cours N°1](https://abainia.net/teaching/industrial-communication-buses/architecture-des-réseaux.pdf)
