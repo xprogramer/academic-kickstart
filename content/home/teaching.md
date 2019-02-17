@@ -16,10 +16,10 @@ weight = 64
 +++
 
 - University of Guelma (December 2018-today):
-	- Industrial communication networks (communication buses)
-  - Transmssion technologies
-  - Combinational and sequential logic circuits
-  - Practices of final year projects
+	- [Industrial networks and communication buses] (https://abainia.net/teaching/industrial-communication-buses/)
+  - Introduction to Arduino and communication protocols
+  - Transmission technologies
+  - Local networks
   
 - University of Mouloud Mammeri Tizi-ouzou (December 2017-February 2019):
 	- Simulation tools for µElec (common amplification circuits)
