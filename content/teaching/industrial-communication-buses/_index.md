@@ -20,3 +20,5 @@ weight = 90
 ## Industrial networks and communication buses (French)
 
 [Cours N°1](https://abainia.net/teaching/industrial-communication-buses/architecture-des-réseaux.pdf)
+[Cours N°2](https://abainia.net/teaching/industrial-communication-buses/protocoles_communication.pdf)
+[Cours N°3](https://abainia.net/teaching/industrial-communication-buses/RLI.pdf)
