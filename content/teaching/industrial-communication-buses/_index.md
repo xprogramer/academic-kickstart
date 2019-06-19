@@ -24,3 +24,9 @@ weight = 90
 [Cours N°2](https://abainia.net/teaching/industrial-communication-buses/protocoles_communication.pdf)
 
 [Cours N°3](https://abainia.net/teaching/industrial-communication-buses/RLI.pdf)
+
+[Cours N°4](https://abainia.net/teaching/industrial-communication-buses/4_bus.pdf)
+
+[Cours N°5](https://abainia.net/teaching/industrial-communication-buses/5_can.pdf)
+
+[Cours N°6](https://abainia.net/teaching/industrial-communication-buses/6_ASI.pdf)
