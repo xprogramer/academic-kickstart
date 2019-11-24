@@ -16,18 +16,18 @@ weight = 64
 +++
 
 - University of Guelma (December 2018-today):
-  - [C++ and POO] (https://abainia.net/teaching/cpp-poo/)
-  - [Image Processing] (https://abainia.net/teaching/ImProc/)
-	- [Industrial networks and communication buses] (https://abainia.net/teaching/industrial-communication-buses/)
+  - [C++ and POO] (https://abainia.info/teaching/cpp-poo/)
+  - [Image Processing] (https://abainia.info/teaching/ImProc/)
+	- [Industrial networks and communication buses] (https://abainia.info/teaching/industrial-communication-buses/)
   - Introduction to Arduino and communication protocols
-  - [Transmission technologies] (https://abainia.net/teaching/Transmission_Technolo/)
+  - [Transmission technologies] (https://abainia.info/teaching/Transmission_Technolo/)
   - Local networks
   
 - University of Mouloud Mammeri Tizi-ouzou (December 2017-February 2019):
 	- Simulation tools for µElec (common amplification circuits)
 	- Administration of network services
-	- [C++ and POO] (https://abainia.net/teaching/cpp-poo/)
-	- [Web technologies] (https://abainia.net/teaching/web-technologies/)
+	- [C++ and POO] (https://abainia.info/teaching/cpp-poo/)
+	- [Web technologies] (https://abainia.info/teaching/web-technologies/)
 
 - STS Training School (2015-2016):
 	- Java programming
