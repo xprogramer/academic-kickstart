@@ -23,4 +23,4 @@ weight = 90
 
 [Cours N°2](https://abainia.net/teaching/ImProc/cours_2.pdf) </br>
 
-[Cours N°3](https://abainia.net/teaching/ImProc/cours_3.pdf) </br
+[Cours N°3](https://abainia.net/teaching/ImProc/cours_3.pdf) </br>
