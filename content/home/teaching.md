@@ -16,8 +16,8 @@ weight = 64
 +++
 
 - University of Guelma (December 2018-today):
-  - C++ and POO
-  - Image Processing
+  - [C++ and POO] (https://abainia.net/teaching/cpp-poo/)
+  - [Image Processing] (https://abainia.net/teaching/ImProc/)
 	- [Industrial networks and communication buses] (https://abainia.net/teaching/industrial-communication-buses/)
   - Introduction to Arduino and communication protocols
   - [Transmission technologies] (https://abainia.net/teaching/Transmission_Technolo/)
