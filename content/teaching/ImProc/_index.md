@@ -17,7 +17,7 @@ weight = 90
 
 +++
 
-## C++ & POO (French)
+## Image Processing (French)
 
 [Cours N°1](https://abainia.net/teaching/ImProc/cours_1.pptx) </br>
 
