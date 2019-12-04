@@ -19,8 +19,8 @@ weight = 90
 
 ## Image Processing (French)
 
-[Cours N°1](https://abainia.net/teaching/ImProc/cours 1.pptx) </br>
+[Cours N°1](https://abainia.info/teaching/ImProc/cours 1.pptx) </br>
 
-[Cours N°2](https://abainia.net/teaching/ImProc/cours 2.pdf) </br>
+[Cours N°2](https://abainia.info/teaching/ImProc/cours 2.pdf) </br>
 
-[Cours N°3](https://abainia.net/teaching/ImProc/cours 3.pdf) </br>
+[Cours N°3](https://abainia.info/teaching/ImProc/cours 3.pdf) </br>
