@@ -18,6 +18,6 @@ weight = 90
 
 ## C++ & POO (French)
 
-[Cours N°1](https://abainia.net/teaching/cpp-poo/cours_1.pdf) | [TP N°1](https://abainia.net/teaching/cpp-poo/CPP_POO_TP_1.pdf) | [TP N°1 solution](https://abainia.net/teaching/cpp-poo/CPP_POO_TP_1_solution.pdf) | [TD N°1](https://abainia.net/teaching/cpp-poo/CPP_POO_TD_1.pdf)</br>
+[Cours N°1](https://abainia.info/teaching/cpp-poo/cours_1.pdf) | [TP N°1](https://abainia.info/teaching/cpp-poo/CPP_POO_TP_1.pdf) | [TP N°1 solution](https://abainia.info/teaching/cpp-poo/CPP_POO_TP_1_solution.pdf) | [TD N°1](https://abainia.info/teaching/cpp-poo/CPP_POO_TD_1.pdf)</br>
 
-[Cours N°2](https://abainia.net/teaching/cpp-poo/cours_2.pdf) | [TP N°2](https://abainia.net/teaching/cpp-poo/TP N°2.docx)  </br>
+[Cours N°2](https://abainia.info/teaching/cpp-poo/cours_2.pdf) | [TP N°2](https://abainia.info/teaching/cpp-poo/TP N°2.docx)  </br>
