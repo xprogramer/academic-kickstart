@@ -22,4 +22,4 @@ weight = 90
 
 [Cours N°2](https://abainia.info/teaching/cpp-poo/cours_2.pdf) | [TP N°2](https://abainia.info/teaching/cpp-poo/TP N°2.docx) | [TP N°2 solution](https://abainia.info/teaching/cpp-poo/CPP_POO_TP_2_solution.pdf) </br>
 
-[Cours N°3](https://abainia.info/teaching/cpp-poo/cours_3.pdf) 
+[Cours N°3](https://abainia.info/teaching/cpp-poo/cours_3.pdf) | [TP N°3 avec solution](https://abainia.info/teaching/cpp-poo/TP_POO.pdf)  </br>
