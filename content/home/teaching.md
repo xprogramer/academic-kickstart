@@ -8,7 +8,7 @@ date = 2018-11-09T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Teaching"
-subtitle = ""
+subtitle = "Different courses I teach"
 
 # Order that this section will appear in.
 weight = 64
@@ -16,10 +16,11 @@ weight = 64
 +++
 
 - University of Guelma (December 2018-today):
+  - [Web technologies] (https://abainia.info/teaching/web-technologies/)
   - [C++ and POO] (https://abainia.info/teaching/cpp-poo/)
   - [Image Processing] (https://abainia.info/teaching/ImProc/)
 	- [Industrial networks and communication buses] (https://abainia.info/teaching/industrial-communication-buses/)
-  - Introduction to Arduino and communication protocols
+  - [Introduction to Arduino and communication protocols] (https://abainia.info/teaching/communication-protocols/)
   - [Transmission technologies] (https://abainia.info/teaching/Transmission_Technolo/)
   - Local networks
   
