@@ -20,3 +20,4 @@ weight = 90
 
 [Cours N°1](https://abainia.info/teaching/web-technologies/1_intro_web.pdf) </br>
 [Cours N°2](https://abainia.info/teaching/web-technologies/2_html.pdf) </br>
+[Cours N°3](https://abainia.info/teaching/web-technologies/3_css.pdf) </br>
