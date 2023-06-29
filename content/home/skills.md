@@ -37,6 +37,6 @@ weight = 7
   icon = "code"
   icon_pack = "fas"
   name = "Develop"
-  description = "With more than 10 years of development and programming in different languages, I can now develop any software I want, and resolve the majority of the real-world problems as well"
+  description = "With more than 15 years of development and programming in different languages, I can now develop any software I want, and resolve the majority of the real-world problems as well"
 
 +++
